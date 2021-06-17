@@ -1,0 +1,13 @@
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\bin\Debug\netcoreapp3.1\numeroDeMeses.exe
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\bin\Debug\netcoreapp3.1\numeroDeMeses.deps.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\bin\Debug\netcoreapp3.1\numeroDeMeses.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\bin\Debug\netcoreapp3.1\numeroDeMeses.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\bin\Debug\netcoreapp3.1\numeroDeMeses.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\bin\Debug\netcoreapp3.1\numeroDeMeses.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao1\numeroDeMeses\numeroDeMeses\obj\Debug\netcoreapp3.1\numeroDeMeses.genruntimeconfig.cache
